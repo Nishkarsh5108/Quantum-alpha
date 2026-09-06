@@ -2,3 +2,4 @@ data/*_clean.csv
 data/*_features*.csv
 data/submission*.csv
 src/Manya/catboost_info/
+logs
